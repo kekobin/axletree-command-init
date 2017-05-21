@@ -1,0 +1,23 @@
+{
+  "name": "axletree-command-init",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kekobin/axletree-command-init"
+  },
+  "keywords": [
+    "axletree",
+    "init"
+  ],
+  "author": "kekobin@163.com",
+  "license": "ISC",
+  "homepage": "https://github.com/kekobin/axletree-command-init",
+  "dependencies": {
+    "fis-scaffold-kernel": "0.2.0"
+  }
+}
