@@ -9,7 +9,7 @@ module.exports = {
                 description: 'Enter your project name',
                 type: 'string',
                 required: true,
-                'default': 'axletreeDemo'
+                'default': 'axledemo'
             }],
             'roadmap': [{
                 reg: '**',
